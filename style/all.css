@@ -1,0 +1,16 @@
+@import url('vendor/reset.css');
+@import url('components/fonts.css');
+
+@import url('components/header.css');
+@import url('components/button.css');
+@import url('components/home.css');
+@import url('components/aside.css');
+@import url('components/section-head.css');
+@import url('components/service.css');
+@import url('components/content.css');
+@import url('components/quote.css');
+@import url('components/offer.css');
+@import url('components/footer.css');
+@import url('components/modal.css');
+@import url('components/dropdown.css');
+@import url('components/upside.css');

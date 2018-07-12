@@ -1,0 +1,11 @@
+@font-face {
+	 src: url("../vendor/Lato-Bold.ttf");
+     font-family: 'Lato-Bold';
+}
+
+
+body {
+	font-family: 'Lato-Bold';
+	
+}
+    

@@ -1,0 +1,28 @@
+.home {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+	background-color: rgb(224, 173, 47);
+}
+.home-title {
+	display: block;
+	font-size: 30px;
+	color: rgba(255, 255, 255, .9);
+	margin-bottom:  15px;
+	text-align: center;
+
+}
+.home-subtitle {
+	 display: block;
+	 font-size: 15px;
+	 font-weight: 400;
+	 color: #24242c;
+	 margin-bottom:  30px;
+	 text-align: center;
+}
+@media screen and (max-width: 767px) {
+	 .home {
+	 	justify-content: space-around;
+	 }
+}

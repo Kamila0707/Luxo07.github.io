@@ -1,0 +1,47 @@
+.btn {
+	padding: 8px 30px;
+	font-size: 15px;
+	border: none;
+	outline: none;
+	border-radius: 10px;
+	background-color: rgb(36, 36, 44);
+	color: #ffbd0e;
+	cursor: pointer;
+}
+.btn--home {
+	display: block;
+	margin: 0 auto;
+	color: rgb(255, 255, 255);
+	width: 160px;
+	height: 46px;
+}
+.btn--aside {
+	position: absolute;
+	width: 200px;
+	padding: 15px 0;
+	bottom: 30px;
+	display: block;
+	text-align: center;
+	left: 35px;
+	font-size: 18px;	
+}
+.btn--content {
+	 display: block;
+	 margin-bottom: 40px;
+}
+
+.btn--quote {
+	display: block;
+	margin: 0 auto;
+	margin-top: 40px;
+    background-color: #ffb600;
+    color: #000;
+    width: 160px;
+    height: 46px;
+    box-sizing: border-box;
+    border: 1px solid #fff;
+}
+.btn--modal {
+	 margin: 0 auto;
+	 display: block;
+}

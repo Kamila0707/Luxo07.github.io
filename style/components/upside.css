@@ -1,0 +1,11 @@
+.upside {
+	position: fixed;
+	right: 45px;
+	bottom: 45px;
+}
+.upside-item__inner > img {
+	width: 50px;
+    opacity: .7;
+    cursor: pointer;
+    color: 
+}

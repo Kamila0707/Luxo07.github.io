@@ -1,0 +1,14 @@
+.quote {
+    background-color: #24242c;
+    padding: 50px 5%;
+}
+.quote-item__title {
+	display: block;
+	font-size: 35px;
+	text-align: center;	
+	color: #fff;
+}
+
+.quote-item__title > span {
+	color: #ffb600;
+}
